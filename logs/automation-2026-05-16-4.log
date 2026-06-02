@@ -1,0 +1,62 @@
+13:38:16.021 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13:38:16.034 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13:38:16.034 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13:38:16.037 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+13:38:16.038 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13:38:16.041 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13:38:16.042 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13:38:16.042 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13:38:16.042 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13:38:16.053 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\hp\AppData\Local\Temp\testng-eclipse-634531013\testng-customsuite.xml
+
+13:38:16.086 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 7 ms.
+13:38:18.182 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@76954a33: 137 ms
+13:38:18.214 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@322803db: 32 ms
+13:38:18.233 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@5f404594: 19 ms
+13:38:18.248 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@7a24eb3: 15 ms
+13:38:18.262 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@4a9486c0: 14 ms
+13:38:18.263 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@4c27d39d: 0 ms
+13:38:37.718 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\hp\eclipse-workspace\HybridDrivenFramework\master.xml
+
+13:38:44.798 [main] INFO  testCases.TC003_LoginDDT - *** Starting TC003_LoginDDT ***
+13:38:48.231 [main] INFO  testCases.TC003_LoginDDT - *** Starting TC003_LoginDDT ***
+13:38:58.503 [main] INFO  testCases.TC003_LoginDDT - *** Starting TC003_LoginDDT ***
+13:39:08.738 [main] INFO  testCases.TC003_LoginDDT - *** Starting TC003_LoginDDT ***
+13:39:18.919 [main] INFO  testCases.TC003_LoginDDT - *** Starting TC003_LoginDDT ***
+13:43:45.160 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\hp\eclipse-workspace\HybridDrivenFramework\master.xml
+
+13:43:54.163 [main] INFO  testCases.TC003_LoginDDT - *** Starting TC003_LoginDDT ***
+13:43:58.870 [main] INFO  testCases.TC003_LoginDDT - *** Starting TC003_LoginDDT ***
+13:44:09.099 [main] INFO  testCases.TC003_LoginDDT - *** Starting TC003_LoginDDT ***
+13:44:19.252 [main] INFO  testCases.TC003_LoginDDT - *** Starting TC003_LoginDDT ***
+13:44:29.427 [main] INFO  testCases.TC003_LoginDDT - *** Starting TC003_LoginDDT ***
+13:48:44.998 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\hp\eclipse-workspace\HybridDrivenFramework\master.xml
+
+13:49:04.681 [main] INFO  testCases.TC003_LoginDDT - *** Starting TC003_LoginDDT ***
+13:49:08.216 [main] INFO  testCases.TC003_LoginDDT - *** Starting TC003_LoginDDT ***
+13:49:18.426 [main] INFO  testCases.TC003_LoginDDT - *** Starting TC003_LoginDDT ***
+13:49:28.577 [main] INFO  testCases.TC003_LoginDDT - *** Starting TC003_LoginDDT ***
+13:49:38.734 [main] INFO  testCases.TC003_LoginDDT - *** Starting TC003_LoginDDT ***
+13:53:24.097 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\hp\eclipse-workspace\HybridDrivenFramework\master.xml
+
+13:54:12.182 [main] INFO  testCases.TC003_LoginDDT - *** Starting TC003_LoginDDT ***
+13:54:15.229 [main] INFO  testCases.TC003_LoginDDT - *** Starting TC003_LoginDDT ***
+13:54:25.412 [main] INFO  testCases.TC003_LoginDDT - *** Starting TC003_LoginDDT ***
+13:54:35.609 [main] INFO  testCases.TC003_LoginDDT - *** Starting TC003_LoginDDT ***
+13:54:45.813 [main] INFO  testCases.TC003_LoginDDT - *** Starting TC003_LoginDDT ***
+13:55:57.715 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\hp\eclipse-workspace\HybridDrivenFramework\master.xml
+
+13:56:05.570 [main] INFO  testCases.TC003_LoginDDT - *** Starting TC003_LoginDDT ***
+13:56:09.049 [main] INFO  testCases.TC003_LoginDDT - *** Starting TC003_LoginDDT ***
+13:56:19.273 [main] INFO  testCases.TC003_LoginDDT - *** Starting TC003_LoginDDT ***
+13:56:29.500 [main] INFO  testCases.TC003_LoginDDT - *** Starting TC003_LoginDDT ***
+13:56:39.677 [main] INFO  testCases.TC003_LoginDDT - *** Starting TC003_LoginDDT ***
+13:57:35.765 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\hp\eclipse-workspace\HybridDrivenFramework\master.xml
+

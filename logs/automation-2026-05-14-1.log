@@ -1,0 +1,47 @@
+23:10:36.305 [main] INFO  testCases.TC001_Account_Reg_page -  ***** Starting Test TC001_Account_Reg_page ***** 
+23:10:36.367 [main] INFO  testCases.TC001_Account_Reg_page -  ***** Click on My Account Link ***** 
+23:10:36.573 [main] INFO  testCases.TC001_Account_Reg_page -  ***** Click on Registration Link ***** 
+23:10:37.635 [main] INFO  testCases.TC001_Account_Reg_page -  +++++ Enter all Information +++++
+23:10:40.847 [main] INFO  testCases.TC001_Account_Reg_page -  ***** Test TC001_Account_Reg_page Completed ***** 
+23:32:18.861 [main] INFO  testCases.TC001_Account_Reg_page -  ***** Starting Test TC001_Account_Reg_page ***** 
+23:32:18.916 [main] INFO  testCases.TC001_Account_Reg_page -  ***** Click on My Account Link ***** 
+23:32:19.221 [main] INFO  testCases.TC001_Account_Reg_page -  ***** Click on Registration Link ***** 
+23:32:29.277 [main] ERROR testCases.TC001_Account_Reg_page - ...Test Failed...
+23:32:29.277 [main] INFO  testCases.TC001_Account_Reg_page -  ***** Test TC001_Account_Reg_page Completed ***** 
+00:30:34.125 [main] INFO  testCases.TC001_Account_Reg_page -  ***** Starting Test TC001_Account_Reg_page ***** 
+00:30:34.183 [main] INFO  testCases.TC001_Account_Reg_page -  ***** Click on My Account Link ***** 
+00:30:34.425 [main] INFO  testCases.TC001_Account_Reg_page -  ***** Click on Registration Link ***** 
+00:30:35.715 [main] INFO  testCases.TC001_Account_Reg_page -  +++++ Enter all Information +++++
+00:30:45.633 [main] INFO  testCases.TC001_Account_Reg_page -  ***** Test TC001_Account_Reg_page Completed ***** 
+00:31:31.003 [main] INFO  testCases.TC001_Account_Reg_page -  ***** Starting Test TC001_Account_Reg_page ***** 
+00:31:31.086 [main] INFO  testCases.TC001_Account_Reg_page -  ***** Click on My Account Link ***** 
+00:31:31.285 [main] INFO  testCases.TC001_Account_Reg_page -  ***** Click on Registration Link ***** 
+00:31:32.805 [main] INFO  testCases.TC001_Account_Reg_page -  +++++ Enter all Information +++++
+00:31:33.285 [main] INFO  testCases.TC001_Account_Reg_page -  ***** Test TC001_Account_Reg_page Completed ***** 
+00:52:09.091 [main] INFO  testCases.TC001_Account_Reg_page -  ***** Starting Test TC001_Account_Reg_page ***** 
+00:52:09.142 [main] INFO  testCases.TC001_Account_Reg_page -  ***** Click on My Account Link ***** 
+00:52:19.246 [main] ERROR testCases.TC001_Account_Reg_page - ...Test Failed...
+00:52:19.246 [main] INFO  testCases.TC001_Account_Reg_page -  ***** Test TC001_Account_Reg_page Completed ***** 
+00:52:19.639 [main] INFO  testCases.TC001_Account_Reg_page -  ***** Starting Test TC001_Account_Reg_page ***** 
+00:52:19.640 [main] INFO  testCases.TC001_Account_Reg_page -  ***** Click on My Account Link ***** 
+00:52:19.642 [main] ERROR testCases.TC001_Account_Reg_page - ...Test Failed...
+00:52:19.642 [main] INFO  testCases.TC001_Account_Reg_page -  ***** Test TC001_Account_Reg_page Completed ***** 
+00:52:48.161 [main] INFO  testCases.TC001_Account_Reg_page -  ***** Starting Test TC001_Account_Reg_page ***** 
+00:52:48.165 [main] INFO  testCases.TC001_Account_Reg_page -  ***** Click on My Account Link ***** 
+00:52:48.379 [main] INFO  testCases.TC001_Account_Reg_page -  ***** Click on Registration Link ***** 
+00:52:50.885 [main] INFO  testCases.TC001_Account_Reg_page -  +++++ Enter all Information +++++
+00:52:51.613 [main] INFO  testCases.TC001_Account_Reg_page -  ***** Test TC001_Account_Reg_page Completed ***** 
+01:01:20.732 [TestNG-tests-1] INFO  testCases.TC001_Account_Reg_page -  ***** Starting Test TC001_Account_Reg_page ***** 
+01:01:20.739 [TestNG-tests-1] INFO  testCases.TC001_Account_Reg_page -  ***** Click on My Account Link ***** 
+01:01:20.957 [TestNG-tests-1] INFO  testCases.TC001_Account_Reg_page -  ***** Click on Registration Link ***** 
+01:01:39.502 [TestNG-tests-1] INFO  testCases.TC001_Account_Reg_page -  +++++ Enter all Information +++++
+01:01:44.951 [TestNG-tests-1] INFO  testCases.TC001_Account_Reg_page -  ***** Test TC001_Account_Reg_page Completed ***** 
+01:02:44.965 [TestNG-tests-3] INFO  testCases.TC001_Account_Reg_page -  ***** Starting Test TC001_Account_Reg_page ***** 
+01:02:44.967 [TestNG-tests-3] INFO  testCases.TC001_Account_Reg_page -  ***** Click on My Account Link ***** 
+01:02:45.169 [TestNG-tests-3] INFO  testCases.TC001_Account_Reg_page -  ***** Click on Registration Link ***** 
+01:03:25.643 [TestNG-tests-3] INFO  testCases.TC001_Account_Reg_page -  +++++ Enter all Information +++++
+01:03:26.278 [TestNG-tests-3] INFO  testCases.TC001_Account_Reg_page -  ***** Test TC001_Account_Reg_page Completed ***** 
+01:04:55.316 [TestNG-tests-2] INFO  testCases.TC001_Account_Reg_page -  ***** Starting Test TC001_Account_Reg_page ***** 
+01:04:55.366 [TestNG-tests-2] INFO  testCases.TC001_Account_Reg_page -  ***** Click on My Account Link ***** 
+01:04:55.367 [TestNG-tests-2] ERROR testCases.TC001_Account_Reg_page - ...Test Failed...
+01:04:55.367 [TestNG-tests-2] INFO  testCases.TC001_Account_Reg_page -  ***** Test TC001_Account_Reg_page Completed ***** 

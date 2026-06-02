@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-05-29T01:04:32 IST" name="MasterSuite" finished-at="2026-05-29T01:04:58 IST" duration-ms="26217">
+    <groups>
+      <group name="Master">
+        <method signature="TC001_Account_Reg_page.test()[pri:0, instance:testCases.TC001_Account_Reg_page@1c481ff2]" name="test" class="testCases.TC001_Account_Reg_page"/>
+      </group> <!-- Master -->
+      <group name="Regression">
+        <method signature="TC001_Account_Reg_page.test()[pri:0, instance:testCases.TC001_Account_Reg_page@1c481ff2]" name="test" class="testCases.TC001_Account_Reg_page"/>
+      </group> <!-- Regression -->
+    </groups>
+    <test started-at="2026-05-29T01:04:32 IST" name="Test" finished-at="2026-05-29T01:04:58 IST" duration-ms="26217">
+      <class name="testCases.TC001_Account_Reg_page">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC001_Account_Reg_page@1c481ff2]" started-at="2026-05-29T01:04:33 IST" name="setup" finished-at="2026-05-29T01:04:52 IST" duration-ms="19025" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[linux]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="test()[pri:0, instance:testCases.TC001_Account_Reg_page@1c481ff2]" started-at="2026-05-29T01:04:52 IST" name="test" finished-at="2026-05-29T01:04:58 IST" duration-ms="6055" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC001_Account_Reg_page@1c481ff2]" started-at="2026-05-29T01:04:58 IST" name="tearDown" finished-at="2026-05-29T01:04:58 IST" duration-ms="235" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.TC001_Account_Reg_page -->
+    </test> <!-- Test -->
+  </suite> <!-- MasterSuite -->
+</testng-results>

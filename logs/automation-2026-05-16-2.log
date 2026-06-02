@@ -1,0 +1,65 @@
+12:49:56.248 [main] INFO  testCases.TC003_LoginDDT - *** Starting TC003_LoginDDT ***
+12:50:06.479 [main] INFO  testCases.TC003_LoginDDT - *** Starting TC003_LoginDDT ***
+12:50:16.617 [main] INFO  testCases.TC003_LoginDDT - *** Starting TC003_LoginDDT ***
+13:02:59.226 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\hp\eclipse-workspace\HybridDrivenFramework\master.xml
+
+13:03:06.191 [main] INFO  testCases.TC003_LoginDDT - *** Starting TC003_LoginDDT ***
+13:03:19.553 [main] INFO  testCases.TC003_LoginDDT - *** Starting TC003_LoginDDT ***
+13:03:23.978 [main] INFO  testCases.TC003_LoginDDT - *** Starting TC003_LoginDDT ***
+13:03:34.197 [main] INFO  testCases.TC003_LoginDDT - *** Starting TC003_LoginDDT ***
+13:03:44.372 [main] INFO  testCases.TC003_LoginDDT - *** Starting TC003_LoginDDT ***
+13:09:00.531 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\hp\eclipse-workspace\HybridDrivenFramework\master.xml
+
+13:09:10.442 [main] INFO  testCases.TC003_LoginDDT - *** Starting TC003_LoginDDT ***
+13:09:23.369 [main] INFO  testCases.TC003_LoginDDT - *** Starting TC003_LoginDDT ***
+13:09:25.965 [main] INFO  testCases.TC003_LoginDDT - *** Starting TC003_LoginDDT ***
+13:09:36.157 [main] INFO  testCases.TC003_LoginDDT - *** Starting TC003_LoginDDT ***
+13:09:46.348 [main] INFO  testCases.TC003_LoginDDT - *** Starting TC003_LoginDDT ***
+13:14:34.874 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\hp\eclipse-workspace\HybridDrivenFramework\master.xml
+
+13:14:42.444 [main] INFO  testCases.TC001_Account_Reg_page -  ***** Starting Test TC001_Account_Reg_page ***** 
+13:14:42.483 [main] INFO  testCases.TC001_Account_Reg_page -  ***** Click on My Account Link ***** 
+13:14:42.696 [main] INFO  testCases.TC001_Account_Reg_page -  ***** Click on Registration Link ***** 
+13:14:43.509 [main] INFO  testCases.TC001_Account_Reg_page -  +++++ Enter all Information +++++
+13:14:47.069 [main] INFO  testCases.TC001_Account_Reg_page -  ***** Test TC001_Account_Reg_page Completed ***** 
+13:16:26.341 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\hp\eclipse-workspace\HybridDrivenFramework\master.xml
+
+13:16:31.046 [main] INFO  testCases.TC001_Account_Reg_page -  ***** Starting Test TC001_Account_Reg_page ***** 
+13:16:31.083 [main] INFO  testCases.TC001_Account_Reg_page -  ***** Click on My Account Link ***** 
+13:16:31.264 [main] INFO  testCases.TC001_Account_Reg_page -  ***** Click on Registration Link ***** 
+13:16:32.076 [main] INFO  testCases.TC001_Account_Reg_page -  +++++ Enter all Information +++++
+13:16:34.793 [main] INFO  testCases.TC001_Account_Reg_page -  ***** Test TC001_Account_Reg_page Completed ***** 
+13:17:06.038 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\hp\eclipse-workspace\HybridDrivenFramework\master.xml
+
+13:17:12.368 [main] INFO  testCases.TC001_Account_Reg_page -  ***** Starting Test TC001_Account_Reg_page ***** 
+13:17:12.405 [main] INFO  testCases.TC001_Account_Reg_page -  ***** Click on My Account Link ***** 
+13:17:12.628 [main] INFO  testCases.TC001_Account_Reg_page -  ***** Click on Registration Link ***** 
+13:17:13.351 [main] INFO  testCases.TC001_Account_Reg_page -  +++++ Enter all Information +++++
+13:17:16.140 [main] INFO  testCases.TC001_Account_Reg_page -  ***** Test TC001_Account_Reg_page Completed ***** 
+13:17:43.130 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\hp\eclipse-workspace\HybridDrivenFramework\master.xml
+
+13:17:50.283 [main] INFO  testCases.TC001_Account_Reg_page -  ***** Starting Test TC001_Account_Reg_page ***** 
+13:17:50.318 [main] INFO  testCases.TC001_Account_Reg_page -  ***** Click on My Account Link ***** 
+13:17:50.515 [main] INFO  testCases.TC001_Account_Reg_page -  ***** Click on Registration Link ***** 
+13:17:52.616 [main] INFO  testCases.TC001_Account_Reg_page -  +++++ Enter all Information +++++
+13:17:55.651 [main] INFO  testCases.TC001_Account_Reg_page -  ***** Test TC001_Account_Reg_page Completed ***** 
+13:21:21.898 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\hp\eclipse-workspace\HybridDrivenFramework\master.xml
+
+13:21:30.239 [main] INFO  testCases.TC003_LoginDDT - *** Starting TC003_LoginDDT ***
+13:21:32.574 [main] INFO  testCases.TC003_LoginDDT - *** Starting TC003_LoginDDT ***
+13:21:42.827 [main] INFO  testCases.TC003_LoginDDT - *** Starting TC003_LoginDDT ***
+13:21:53.026 [main] INFO  testCases.TC003_LoginDDT - *** Starting TC003_LoginDDT ***
+13:22:03.218 [main] INFO  testCases.TC003_LoginDDT - *** Starting TC003_LoginDDT ***
+13:25:38.027 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\hp\eclipse-workspace\HybridDrivenFramework\master.xml
+
+13:25:45.671 [main] INFO  testCases.TC003_LoginDDT - *** Starting TC003_LoginDDT ***
+13:25:48.342 [main] INFO  testCases.TC003_LoginDDT - *** Starting TC003_LoginDDT ***
+13:25:58.568 [main] INFO  testCases.TC003_LoginDDT - *** Starting TC003_LoginDDT ***

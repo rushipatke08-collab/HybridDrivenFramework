@@ -1,0 +1,75 @@
+00:11:15.283 [TestNG-tests-1] INFO  testCases.TC001_Account_Reg_page -  ***** Test TC001_Account_Reg_page Completed ***** 
+00:11:25.310 [TestNG-tests-2] ERROR testCases.TC001_Account_Reg_page - ...Test Failed...
+00:11:25.310 [TestNG-tests-2] INFO  testCases.TC001_Account_Reg_page -  ***** Test TC001_Account_Reg_page Completed ***** 
+23:06:59.270 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\hp\eclipse-workspace\HybridDrivenFramework\grid-docker.xml
+
+23:07:00.031 [main] INFO  testCases.TC001_Account_Reg_page -  ***** Starting Test TC001_Account_Reg_page ***** 
+23:07:00.080 [main] INFO  testCases.TC001_Account_Reg_page -  ***** Click on My Account Link ***** 
+23:07:00.080 [main] ERROR testCases.TC001_Account_Reg_page - ...Test Failed...
+23:07:00.082 [main] INFO  testCases.TC001_Account_Reg_page -  ***** Test TC001_Account_Reg_page Completed ***** 
+23:07:00.134 [main] INFO  testCases.TC002_LoginTest - *** Test Starting TC002_LoginTest ***
+23:07:54.258 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\hp\eclipse-workspace\HybridDrivenFramework\grid-docker.xml
+
+23:07:54.991 [main] INFO  testCases.TC002_LoginTest - *** Test Starting TC002_LoginTest ***
+23:08:57.200 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\hp\eclipse-workspace\HybridDrivenFramework\grid-docker.xml
+
+23:08:57.827 [main] INFO  testCases.TC001_Account_Reg_page -  ***** Starting Test TC001_Account_Reg_page ***** 
+23:08:57.883 [main] INFO  testCases.TC001_Account_Reg_page -  ***** Click on My Account Link ***** 
+23:08:57.883 [main] ERROR testCases.TC001_Account_Reg_page - ...Test Failed...
+23:08:57.883 [main] INFO  testCases.TC001_Account_Reg_page -  ***** Test TC001_Account_Reg_page Completed ***** 
+23:09:30.572 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\hp\eclipse-workspace\HybridDrivenFramework\grid-docker.xml
+
+23:09:31.125 [main] INFO  testCases.TC001_Account_Reg_page -  ***** Starting Test TC001_Account_Reg_page ***** 
+23:09:31.172 [main] INFO  testCases.TC001_Account_Reg_page -  ***** Click on My Account Link ***** 
+23:09:31.172 [main] ERROR testCases.TC001_Account_Reg_page - ...Test Failed...
+23:09:31.172 [main] INFO  testCases.TC001_Account_Reg_page -  ***** Test TC001_Account_Reg_page Completed ***** 
+23:10:23.857 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\hp\eclipse-workspace\HybridDrivenFramework\grid-docker.xml
+
+23:10:24.602 [main] INFO  testCases.TC002_LoginTest - *** Test Starting TC002_LoginTest ***
+23:15:10.667 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\hp\eclipse-workspace\HybridDrivenFramework\grid-docker.xml
+
+23:16:53.855 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\hp\eclipse-workspace\HybridDrivenFramework\grid-docker.xml
+
+23:17:52.511 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\hp\eclipse-workspace\HybridDrivenFramework\grid-docker.xml
+
+23:27:35.852 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\hp\eclipse-workspace\HybridDrivenFramework\grid-docker.xml
+
+23:28:48.725 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\hp\eclipse-workspace\HybridDrivenFramework\grid-docker.xml
+
+23:30:58.905 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\hp\eclipse-workspace\HybridDrivenFramework\grid-docker.xml
+
+23:32:32.242 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\hp\eclipse-workspace\HybridDrivenFramework\grid-docker.xml
+
+23:34:37.612 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\hp\eclipse-workspace\HybridDrivenFramework\parallesBrowsingTest.xml
+
+23:35:20.742 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\hp\eclipse-workspace\HybridDrivenFramework\grid-docker.xml
+
+23:38:24.275 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\hp\eclipse-workspace\HybridDrivenFramework\grid-docker.xml
+
+23:38:45.411 [main] INFO  testCases.TC001_Account_Reg_page -  ***** Starting Test TC001_Account_Reg_page ***** 
+23:38:45.479 [main] INFO  testCases.TC001_Account_Reg_page -  ***** Click on My Account Link ***** 
+23:38:46.104 [main] INFO  testCases.TC001_Account_Reg_page -  ***** Click on Registration Link ***** 
+23:38:47.491 [main] INFO  testCases.TC001_Account_Reg_page -  +++++ Enter all Information +++++
+23:38:51.020 [main] INFO  testCases.TC001_Account_Reg_page -  ***** Test TC001_Account_Reg_page Completed ***** 
+23:39:42.052 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\hp\eclipse-workspace\HybridDrivenFramework\grid-docker.xml
+
+23:39:48.387 [main] INFO  testCases.TC001_Account_Reg_page -  ***** Starting Test TC001_Account_Reg_page ***** 
+23:39:48.527 [main] INFO  testCases.TC001_Account_Reg_page -  ***** Click on My Account Link ***** 
+23:39:49.106 [main] INFO  testCases.TC001_Account_Reg_page -  ***** Click on Registration Link ***** 
+23:39:50.436 [main] INFO  testCases.TC001_Account_Reg_page -  +++++ Enter all Information +++++

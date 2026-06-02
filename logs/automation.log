@@ -1,0 +1,50 @@
+23:39:53.654 [main] INFO  testCases.TC001_Account_Reg_page -  ***** Test TC001_Account_Reg_page Completed ***** 
+23:40:01.812 [main] INFO  testCases.TC002_LoginTest - *** Test Starting TC002_LoginTest ***
+23:40:08.928 [main] INFO  testCases.TC002_LoginTest - -------- Finished TC002_LoginTest ------
+23:40:17.789 [main] INFO  testCases.TC003_LoginDDT - *** Starting TC003_LoginDDT ***
+23:41:50.432 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\hp\eclipse-workspace\HybridDrivenFramework\grid-docker.xml
+
+23:31:35.268 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\hp\eclipse-workspace\HybridDrivenFramework\grid-docker.xml
+
+23:31:52.393 [main] INFO  testCases.TC001_Account_Reg_page -  ***** Starting Test TC001_Account_Reg_page ***** 
+23:31:52.441 [main] INFO  testCases.TC001_Account_Reg_page -  ***** Click on My Account Link ***** 
+23:31:52.783 [main] INFO  testCases.TC001_Account_Reg_page -  ***** Click on Registration Link ***** 
+23:31:53.843 [main] INFO  testCases.TC001_Account_Reg_page -  +++++ Enter all Information +++++
+23:31:56.975 [main] INFO  testCases.TC001_Account_Reg_page -  ***** Test TC001_Account_Reg_page Completed ***** 
+01:04:32.376 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\hp\eclipse-workspace\HybridDrivenFramework\grid-docker.xml
+
+01:04:52.285 [main] INFO  testCases.TC001_Account_Reg_page -  ***** Starting Test TC001_Account_Reg_page ***** 
+01:04:52.342 [main] INFO  testCases.TC001_Account_Reg_page -  ***** Click on My Account Link ***** 
+01:04:52.700 [main] INFO  testCases.TC001_Account_Reg_page -  ***** Click on Registration Link ***** 
+01:04:53.927 [main] INFO  testCases.TC001_Account_Reg_page -  +++++ Enter all Information +++++
+01:04:58.300 [main] INFO  testCases.TC001_Account_Reg_page -  ***** Test TC001_Account_Reg_page Completed ***** 
+17:41:28.079 [main] INFO  testCases.TC001_Account_Reg_page -  ***** Starting Test TC001_Account_Reg_page ***** 
+17:41:28.204 [main] INFO  testCases.TC001_Account_Reg_page -  ***** Click on My Account Link ***** 
+17:41:28.733 [main] INFO  testCases.TC001_Account_Reg_page -  ***** Click on Registration Link ***** 
+17:41:30.076 [main] INFO  testCases.TC001_Account_Reg_page -  +++++ Enter all Information +++++
+17:42:01.865 [main] ERROR testCases.TC001_Account_Reg_page - ...Test Failed...
+17:42:01.866 [main] INFO  testCases.TC001_Account_Reg_page -  ***** Test TC001_Account_Reg_page Completed ***** 
+18:10:16.635 [main] INFO  testCases.TC002_LoginTest - *** Test Starting TC002_LoginTest ***
+18:10:27.150 [main] INFO  testCases.TC002_LoginTest - -------- Finished TC002_LoginTest ------
+18:11:25.978 [main] INFO  testCases.TC001_Account_Reg_page -  ***** Starting Test TC001_Account_Reg_page ***** 
+18:11:26.023 [main] INFO  testCases.TC001_Account_Reg_page -  ***** Click on My Account Link ***** 
+18:11:26.370 [main] INFO  testCases.TC001_Account_Reg_page -  ***** Click on Registration Link ***** 
+18:11:27.918 [main] INFO  testCases.TC001_Account_Reg_page -  +++++ Enter all Information +++++
+18:11:32.341 [main] INFO  testCases.TC001_Account_Reg_page -  ***** Test TC001_Account_Reg_page Completed ***** 
+22:31:51.603 [main] INFO  testCases.TC001_Account_Reg_page -  ***** Starting Test TC001_Account_Reg_page ***** 
+22:31:51.656 [main] INFO  testCases.TC001_Account_Reg_page -  ***** Click on My Account Link ***** 
+22:31:52.051 [main] INFO  testCases.TC001_Account_Reg_page -  ***** Click on Registration Link ***** 
+22:31:53.290 [main] INFO  testCases.TC001_Account_Reg_page -  +++++ Enter all Information +++++
+22:31:57.037 [main] INFO  testCases.TC001_Account_Reg_page -  ***** Test TC001_Account_Reg_page Completed ***** 
+22:32:01.887 [main] INFO  testCases.TC002_LoginTest - *** Test Starting TC002_LoginTest ***
+22:32:04.984 [main] INFO  testCases.TC002_LoginTest - -------- Finished TC002_LoginTest ------
+23:26:27.235 [main] INFO  testCases.TC001_Account_Reg_page -  ***** Starting Test TC001_Account_Reg_page ***** 
+23:26:27.283 [main] INFO  testCases.TC001_Account_Reg_page -  ***** Click on My Account Link ***** 
+23:26:27.996 [main] INFO  testCases.TC001_Account_Reg_page -  ***** Click on Registration Link ***** 
+23:26:30.975 [main] INFO  testCases.TC001_Account_Reg_page -  +++++ Enter all Information +++++
+23:26:35.207 [main] INFO  testCases.TC001_Account_Reg_page -  ***** Test TC001_Account_Reg_page Completed ***** 
+23:26:39.062 [main] INFO  testCases.TC002_LoginTest - *** Test Starting TC002_LoginTest ***
+23:26:41.615 [main] INFO  testCases.TC002_LoginTest - -------- Finished TC002_LoginTest ------
